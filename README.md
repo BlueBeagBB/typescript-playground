@@ -64,7 +64,7 @@ Contribuições são bem-vindas! Siga as instruções no arquivo CONTRIBUTING.md
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/typescript-playground.git
+git clone https://github.com/BlueBeagBB/typescript-playground.git
 cd typescript-playground
 
 # Instale as dependências (caso tenha)

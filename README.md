@@ -57,6 +57,8 @@ Cada `desafio.md` inclui:
 | 06 - Testes      | Testes com Jest, TDD                        | 🔜 Em breve |
 
 ---
+## 🤝 Contribuições
+Contribuições são bem-vindas! Siga as instruções no arquivo CONTRIBUTING.md.
 
 ## 📦 Instalação e uso
 
@@ -70,3 +72,4 @@ npm install
 
 # Rode os arquivos individualmente
 npx ts-node playgrounds/01-variaveis-e-tipos/index.ts
+
